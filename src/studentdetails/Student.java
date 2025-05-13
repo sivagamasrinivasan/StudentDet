@@ -13,6 +13,7 @@ public class Student
     private String name; //encapsulation principle
     private int sid;
     private int semester;
+    private String cname;
 
     /**
      * @return the name
